@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    height: 7rem;
+    aliign-items: center;
+}
+
+.header > img {
+    margin: 1rem 1.5rem;
+    height: 100%;
+}
+
+.header__text {
+    display: flex;
+    flex-direction: column;
+    gap: -5px;
+}
+.header__text > :nth-child(1) {
+    color: green;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.header__text > :nth-child(2) {
+    font-size: 0.5rem;
+    line-height: 1rem;
+    font-weight: 600;
+}
+
+.header__text :nth-child(3) {
+    font-size: 0.6rem;
+    font-weight: bold;
+}
