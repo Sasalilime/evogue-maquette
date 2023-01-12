@@ -23,3 +23,8 @@ ul {
     padding-left: 0px;
     margin: 0;
 }
+
+pre {
+    padding: 0;
+    margin: 0;
+}
