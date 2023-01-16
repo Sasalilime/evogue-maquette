@@ -29,6 +29,7 @@
 
 .content__details-intro {
     grid-area: content__details-intro;
+    margin-top: 1rem;
 }
 
 .content__details-intro p {
@@ -114,5 +115,3 @@
 .content__aside-contact-infos a {
     color: green;
 }
-
-
