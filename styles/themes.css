@@ -178,3 +178,43 @@
     font-size: 1rem;
     text-align: left;
 }
+
+.content__cta {
+    padding: 1.5rem;
+    margin: 2rem 0;
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    background: #8bcabe;
+    text-align: center;
+}
+
+.content__cta button {
+    background: #0a7969;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    height: 3rem;
+    border: none;
+    padding: 1rem;
+}
+
+
+.footer__menu {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5rem;
+}
+
+.footer__menu h1 {
+    margin-bottom: 1rem;
+}
+
+
+
+.footer__copyright {
+    text-align: center;
+}
